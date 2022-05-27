@@ -1,0 +1,6 @@
+Ver caderno para anotações detalhadas. Os tópicos são:
+- Introdução ao Git
+- Navegação via command line interface e instalação
+- Entendendo como o Git funciona por baixo dos panos
+- Ciclo de vida dos arquivos Git
+- Resolvendo conflitos
