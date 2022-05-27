@@ -9,7 +9,7 @@
 4. Melhorar seu código
 5. Reconhecimento
 
-## **Navegação via command line interface e instalação
+## **Navegação via command line interface e instalação**
 - Comandos básicos para um bom desempenho no terminal:
     - cd (abre pasta)
     - cd .. (retrocede pasta)
